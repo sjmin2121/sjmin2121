@@ -1,1 +1,1 @@
-Hi, My name is Ji Min, and this is my github.
+Hi, this is my github.
